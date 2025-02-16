@@ -7,7 +7,7 @@ SUMMARY
 I developed a chatbot named Alexa for a food delivery restaurant, using Dialogflow to create an interactive and intelligent agent. The chatbot handles multiple tasks, such as placing new orders, adding or removing items, and tracking orders through various intents. Each intent is designed with training phrases to understand user inputs effectively. Predefined responses ensure smooth communication with customers. For backend processes, I integrated Python to manage order processing and database interactions. SQL Workbench was used to store and retrieve order details efficiently. The chatbot ensures a seamless ordering experience by understanding user requests and responding promptly. It enhances customer engagement and improves restaurant service efficiency.
 
 
-
+![Image](https://github.com/user-attachments/assets/7526456b-963e-413d-bcef-7765ae874dfe)
 
 
 
